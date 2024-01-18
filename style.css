@@ -97,7 +97,7 @@ nav{
 
 .three{
     bottom: 450px;
-    left: 50px;
+    left: -50px;
     transform: rotate(-180deg);
 }
 
